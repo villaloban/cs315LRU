@@ -1,0 +1,3 @@
+impl,profile,trace_path,N,seed,elapsed_ms,ops_total,average_probes,eff_load_factor_pct,load_factor_pct,tombstones_pct,full_scans,compactions,compaction_state
+hash_map_single,lru_profile,lru_profile_N_65536_S_23.trace,65536,23,393734,229635,164099,81931,65536,4136,12259,7570158,229635,164099,0,0,4,65536,5,79,94,14,19.2266,550.310109,compaction_on
+hash_map_double,lru_profile,lru_profile_N_65536_S_23.trace,65536,23,393734,229635,164099,81931,65536,8723,7672,3466552,229635,164099,0,0,6,65536,10,79,89,9,8.8043,867.869730,compaction_on

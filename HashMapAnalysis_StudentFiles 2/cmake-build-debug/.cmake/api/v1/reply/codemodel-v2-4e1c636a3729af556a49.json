@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HashTablesOpenAddressing",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HashTablesOpenAddressing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HashTablesOpenAddressing-Debug-e79b2a8e381b6fda1180.json",
+					"name" : "HashTablesOpenAddressing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LRU_Harness::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LRU_Harness-Debug-dddcafb1ad47efb55df4.json",
+					"name" : "LRU_Harness",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LRU_Trace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LRU_Trace-Debug-c007ed9271c45b7d8235.json",
+					"name" : "LRU_Trace",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/anthonyvillalobos/Desktop/untitled folder/HashMapAnalysis_StudentFiles 2/cmake-build-debug",
+		"source" : "/Users/anthonyvillalobos/Desktop/untitled folder/HashMapAnalysis_StudentFiles 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
